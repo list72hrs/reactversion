@@ -1,0 +1,1 @@
+export default function SupplierLogin() { return <div className="p-4">Supplier Login</div>; }
