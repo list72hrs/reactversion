@@ -1,0 +1,1 @@
+export default function SupplierSignup() { return <div className="p-6 text-center">Supplier Signup</div>; }

@@ -1,0 +1,1 @@
+export default function SellerSignup() { return <div className="p-6 text-center">Seller Signup</div>; }

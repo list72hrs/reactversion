@@ -1,0 +1,1 @@
+export default function SellerLogin() { return <div className="p-6 text-center">Seller Login</div>; }
