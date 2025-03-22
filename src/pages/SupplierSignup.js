@@ -1,1 +1,0 @@
-export default function SupplierSignup() { return <div className="p-4">Supplier Signup</div>; }
